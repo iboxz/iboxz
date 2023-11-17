@@ -3,7 +3,7 @@
 This is official website of IBOX (Iliya Hadinezhad):
 Check to see the full content 
 > # [firstibox.glitch.me](https://firstibox.glitch.me/)
-![IBOX Logo](https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/761a8fe5-efaa-492c-acae-3addac24d480.image.png?v=1700248567452)
+![IBOX Logo](https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/eye1.png)
 
 ## Contact
 
