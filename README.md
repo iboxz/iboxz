@@ -13,10 +13,8 @@ Check to see the full content
   - [Telegram](https://t.me/IBOX_s)
   - [Discord](https://discord.com/users/655082737220452352)
 - **Social Media (Non-Work):**
-  - [Instagram](https://instagram.com/firstibox)
   - [Twitter](https://x.com/FirstIBOX)
+  - [Instagram](https://instagram.com/firstibox)
   - [Telegram Channel](https://t.me/FirstIBOX)
-  - [Discord Server](https://discord.gg/alshain-748914550082109541)
-  - [Snapchat](https://www.snapchat.com/add/thisisibox)
 
 [Click here to learn more about me](https://firstibox.glitch.me/)
