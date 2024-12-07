@@ -8,13 +8,12 @@ Check to see the full content
 ## Contact
 
 - **Direct Communication:**
-  - Email: [hadinezhad1383@gmail.com](mailto:hadinezhad1383@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/iliyahadinezhad/)
   - [Telegram](https://t.me/IBOX_s)
   - [Discord](https://discord.com/users/655082737220452352)
+  - Email: [hadinezhad1383@gmail.com](mailto:hadinezhad1383@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/iliyahadinezhad/)
 - **Social Media (Non-Work):**
   - [Twitter](https://x.com/FirstIBOX)
-  - [Instagram](https://instagram.com/firstibox)
   - [Telegram Channel](https://t.me/FirstIBOX)
 
 [Click here to learn more about me](https://firstibox.glitch.me/)
