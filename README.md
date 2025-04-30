@@ -10,7 +10,7 @@ Check to see the full content
 - **Direct Communication:**
   - [Telegram](https://t.me/IBOX_s)
   - [Discord](https://discord.com/users/655082737220452352)
-  - Email: [hadinezhad1383@gmail.com](mailto:hadinezhad1383@gmail.com)
+  - Email: [firstibox@gmail.com](mailto:firstibox@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/iliyahadinezhad/)
 - **Social Media (Non-Work):**
   - [Twitter](https://x.com/FirstIBOX)
