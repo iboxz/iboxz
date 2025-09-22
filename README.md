@@ -1,8 +1,8 @@
-# [This is IBOX](https://firstibox.glitch.me/)
+# [This is IBOX](https://firstibox.com/)
 
-This is official IBOX website (Iliya Hadinezhad):
+This is  IBOX
 Check to see the full content 
-> # [firstibox.glitch.me](https://firstibox.glitch.me/)
+> # [firstibox.com](https://firstibox.com/)
 ![IBOX Logo](https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/eyesIcon.gif?v=1700259102253)
 
 ## Contact
@@ -16,4 +16,4 @@ Check to see the full content
   - [Twitter](https://x.com/FirstIBOX)
   - [Telegram Channel](https://t.me/FirstIBOX)
 
-[Click here to learn more about me](https://firstibox.glitch.me/)
+[Click here to learn more about me](https://firstibox.com/)
