@@ -3,7 +3,7 @@
 This is  IBOX
 Check to see the full content 
 > # [firstibox.com](https://firstibox.com/)
-![IBOX Logo](https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/eyesIcon.gif?v=1700259102253)
+![IBOX Logo](http://v2ray-collector.gt.tc/assets/BOXeye.gif)
 
 ## Contact
 
